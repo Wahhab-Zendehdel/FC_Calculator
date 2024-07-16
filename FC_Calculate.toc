@@ -1,0 +1,12 @@
+## Interface: 40300
+## Title: FC_Calculate
+## Notes: A simple raid pot calculator addon
+## Author: YourName
+## Version: 1.0
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+Libs\LibDBIcon-1.0\LibDBIcon-1.0.lua
+
+FC_Calculate.lua
