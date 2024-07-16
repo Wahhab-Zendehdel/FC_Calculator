@@ -1,2 +1,2 @@
 # FC_Calculator
-Friends Club addons for Split Raid pot
+Friends Club World of warcraft addon for Split Raid pot
