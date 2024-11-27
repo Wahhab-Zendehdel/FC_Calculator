@@ -50,11 +50,12 @@ It simplifies the process of dividing the gold earned during **Raid GDKP** or **
 ## 📂 Project Structure  
 
 ```plaintext
-├── Core.lua               # Main functionality of the addon  
-├── UI.lua                 # User interface components  
-├── TOC file               # Addon metadata and configuration  
+├── Libs/                  # Libraries required for the addon  
+├── FC_Calculate.lua       # Main functionality of the addon  
+├── FC_Calculate.toc       # Addon metadata and configuration  
+├── LICENSE                # License file for the project  
 └── README.md              # Project documentation (this file)  
-```  
+```
 
 ---
 
