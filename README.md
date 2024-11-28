@@ -19,7 +19,7 @@ It simplifies the process of dividing the gold earned during **Raid GDKP** or **
    Clone or download this repository as a `.zip` file.  
    ```bash
    git clone https://github.com/Wahhab-Zendehdel/FC_Calculator.git
-     
+   ```
 
 2. **Extract the Files:**  
    Unzip the downloaded file and move the folder to your WoW addons directory:  
